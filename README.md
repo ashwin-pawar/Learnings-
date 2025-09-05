@@ -1,6 +1,6 @@
 # Learnings-
 Here I will share all my learnings and practice work in Data Analytics – SQL, Python, Excel, Power BI.
-## 🔹 Skills Covered
+## 🔹 Skills Covered in this 
 - SQL  
 - Python (Pandas, Numpy, Matplotlib)  
 - Excel  
@@ -11,3 +11,4 @@ Here I will share all my learnings and practice work in Data Analytics – SQL, 
 - Track my daily/weekly learning progress  
 - Practice and improve skills  
 - Showcase my journey towards becoming a Data Analyst  
+hshsfios
