@@ -5,7 +5,7 @@ In this project, I invested a significant amount of time and effort. Although th
 
 After building this project, I was able to strengthen and refine my fundamental skills in loops, flow control statements, logic building, and problem-solving. Additionally, I learned the importance of patience while working through challenges in a project.
 
-Check out my project [here](https://github.com/sujanY/my-awesome-project)
+Check out my project [here](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/Practice_Projects/Cannibals_%26_Missionary_game.py)
 
 
 In
