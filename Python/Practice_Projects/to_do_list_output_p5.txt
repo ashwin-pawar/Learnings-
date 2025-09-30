@@ -1,0 +1,56 @@
+----WELCOME TO TO-DO-LIST APPLICATION----
+Enter How many Task you want : 2
+Enter the task here : 1  = gym
+Enter the task here : 2  = yoga
+Today's Task are
+ - ['gym', 'yoga']
+Enter 1- Add
+ Enter 2- Update
+ Enter 3- Delete
+ Enter 4- View
+ Enter 5- Exit/Stop/2
+Enter the Task_No You wantes to Update =yoga
+Enter the new Task =meditation
+Task is Updated 🫥 
+ - meditation
+Enter 1- Add
+ Enter 2- Update
+ Enter 3- Delete
+ Enter 4- View
+ Enter 5- Exit/Stop/1
+Enter the task you wants to Add =play
+task added Successfully 😌 
+ - ['gym', 'meditation', 'play']
+Enter 1- Add
+ Enter 2- Update
+ Enter 3- Delete
+ Enter 4- View
+ Enter 5- Exit/Stop/1
+Enter the task you wants to Add =study
+task added Successfully 😌 
+ - ['gym', 'meditation', 'play', 'study']
+Enter 1- Add
+ Enter 2- Update
+ Enter 3- Delete
+ Enter 4- View
+ Enter 5- Exit/Stop/4
+Todays Total Task = ['gym', 'meditation', 'play', 'study']
+Enter 1- Add
+ Enter 2- Update
+ Enter 3- Delete
+ Enter 4- View
+ Enter 5- Exit/Stop/3
+Enter the task you wants to delete =meditation
+Task ['gym', 'play', 'study'] is Deleted Succcessfully... 😉 
+Enter 1- Add
+ Enter 2- Update
+ Enter 3- Delete
+ Enter 4- View
+ Enter 5- Exit/Stop/6
+Invalid Input, Enter Correct Input 
+Enter 1- Add
+ Enter 2- Update
+ Enter 3- Delete
+ Enter 4- View
+ Enter 5- Exit/Stop/5
+Thank You. Closing the Program 🫡
