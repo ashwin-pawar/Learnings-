@@ -5,8 +5,19 @@ In this project, I invested a significant amount of time and effort. Although th
 
 After building this project, I was able to strengthen and refine my fundamental skills in loops, flow control statements, logic building, and problem-solving. Additionally, I learned the importance of patience while working through challenges in a project.
 
-Check out my project [here](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/Practice_Projects/Cannibals_%26_Missionary_game.py)
+Check out my Project 
+
+[Project 1 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/Practice_Projects/qr_code_p1.py)
+
+[Project 2 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/img_slider_p2.py)
+[Project 3 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/Practice_Projects/Cannibals_%26_Missionary_game.py)
+[Project 4 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/Practice_Projects/Digital_Clock_p4.py)
+[Project 5 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/Practice_Projects/to_do_list_p5.py)
+[Project 6 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/Practice_Projects/text_editior_p6.py)
+[Project 7 :]
+[Project 8 :]
+[Project 9 :]
 
 
-In
+
 Thank You 
