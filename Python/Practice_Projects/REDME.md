@@ -7,18 +7,19 @@ After building this project, I was able to strengthen and refine my fundamental 
 
 Check out my Project 
 
-[Project 1 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/Practice_Projects/qr_code_p1.py).
+[Project 1 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/Practice_Projects/qr_code_p1.py)Genrate QR Code
 
-[Project 2 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/img_slider_p2.py).
+[Project 2 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/img_slider_p2.py) Image Slider 
 
-[Project 3 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/Practice_Projects/Cannibals_%26_Missionary_game.py).
+[Project 3 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/Practice_Projects/Cannibals_%26_Missionary_game.py) Cannibals Missionary Game
 
-[Project 4 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/Practice_Projects/Digital_Clock_p4.py).
+[Project 4 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/Practice_Projects/Digital_Clock_p4.py) Digital Clock
 
-[Project 5 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/Practice_Projects/to_do_list_p5.py).
+[Project 5 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/Practice_Projects/to_do_list_p5.py) TO DO LIST
 
-[Project 6 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/Practice_Projects/text_editior_p6.py).
+[Project 6 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/Practice_Projects/text_editior_p6.py) Text Editior APP
 
+[Project 7 :](https://github.com/ashwin-pawar/Learnings-/blob/main/Python/Practice_Projects/Mistakes_into_Correct_word_P7.py) Mistakes Into Correct Word
 
 
 
