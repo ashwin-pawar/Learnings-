@@ -48,7 +48,7 @@ I learned:
 ---
 
 ### 📸 Preview
-![Dashboard Screenshot]([Assets/Dashboard.png](https://github.com/ashwin-pawar/Learnings-/blob/main/PowerBI/Main%20Dashboard.png))
+![Dashboard Screenshot](https://github.com/ashwin-pawar/Learnings-/blob/main/PowerBI/Main%20Dashboard.png)
 
 ![MTD Report](https://github.com/ashwin-pawar/Learnings-/blob/main/PowerBI/MTD.png)
 
