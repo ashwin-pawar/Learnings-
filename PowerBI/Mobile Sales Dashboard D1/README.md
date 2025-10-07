@@ -48,10 +48,15 @@ I learned:
 ---
 
 ### 📸 Preview
-Dashboard 
+Dashboard Screenshot
+
 ![Dashboard Screenshot](https://github.com/ashwin-pawar/Learnings-/blob/main/PowerBI/Main%20Dashboard.png)
 
+MTD Report
+
 ![MTD Report](https://github.com/ashwin-pawar/Learnings-/blob/main/PowerBI/MTD.png)
+
+MTD Report
 
 ![Same Period Last Year Report ](https://github.com/ashwin-pawar/Learnings-/blob/main/PowerBI/Same%20Period%20Last%20Year.png)
 
