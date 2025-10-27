@@ -113,11 +113,5 @@ It enables marketing teams to monitor **key KPIs**, understand **audience behavi
 
 ---
 
-## 👨‍💻 Author
-**Created by:** Sujan Y  
 **Tools:** Power BI | DAX | Power Query | Data Visualization  
 **Purpose:** Marketing Analytics & Ad Campaign Optimization
-
----
-
-⭐ *If you like this dashboard or found it useful, don’t forget to give it a star on GitHub!*
