@@ -96,13 +96,13 @@ It enables marketing teams to monitor **key KPIs**, understand **audience behavi
 ## 🖼️ Dashboard Previews
 
 ### Facebook Dashboard (Main)
-![Facebook Dashboard](./Facebook%20Dashboard%20(Main).png)
+![Facebook Dashboard](/Facebook%20Dashboard%20(Main).png)
 
 ### Instagram Dashboard (Submain)
-![Instagram Dashboard](./Instagram%20Dashboard%20(Submain).png)
+![Instagram Dashboard](./Instagram%20Dashboard%20(Submain%20).png)
 
 ### Tooltip View
-![Tooltip](./d206d631-427d-4344-b82e-b9e3883b7fc7.png)
+![Tooltip](./Tool-Tip.png)
 
 ---
 
