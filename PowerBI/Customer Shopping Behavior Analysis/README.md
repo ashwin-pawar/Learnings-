@@ -27,7 +27,7 @@ Then i generated a small insights report and using that report i created the **P
 ---
 
 ## 🔗 Dashboard Link
-👉 [Click Here to View Power BI Dashboard](./Dashboard.png)
+👉 [Click Here to View Power BI Dashboard](https://github.com/ashwin-pawar/Learnings-/blob/main/PowerBI/Customer%20Shopping%20Behavior%20Analysis/Dashboard.png)
 
 ---
 
