@@ -27,7 +27,7 @@ Then i generated a small insights report and using that report i created the **P
 ---
 
 ## 🔗 Dashboard Link
-👉 [Click Here to View Power BI Dashboard](YOUR_DASHBOARD_LINK_HERE)
+👉 [Click Here to View Power BI Dashboard](./Dashboard.png)
 
 ---
 
